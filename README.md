@@ -2,7 +2,7 @@
 
 Group A
 
-Mohd Irshad
-Amrita Priyadarshini
-Rajani Hilli
+Mohd Irshad, 
+Amrita Priyadarshini, 
+Rajani Hilli, 
 Priyanka Igola
